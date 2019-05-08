@@ -4,8 +4,6 @@
 
 * first-neural-network  ### 第一个神经网络
 
-* P1_Facial_Keypoints	### 人脸特征检测
-
 * image_description     ### 图像标注项目 
 
 * P3_Implement_SLAM     ### 即时定位与地图构建 slam  
